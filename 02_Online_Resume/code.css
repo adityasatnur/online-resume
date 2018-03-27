@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+#icon1{
+    color: #0077b5;
+    padding: 15px;
+}
+#icon1:hover{
+    color: white;
+    background-color: #0077b5;
+}
+#icon2{
+    padding: 15px;
+    color: #0077b5;
+}
+#icon2:hover{
+    color: white;
+    background-color: #0077b5;
+}#icon3{
+     padding: 15px;
+     color: #0077b5;
+ }
+#icon3:hover{
+    color: white;
+    background-color: #0077b5;
+}#icon4{
+     padding: 15px;
+     color: #0077b5;
+ }
+#icon4:hover{
+    color: white;
+    background-color: #0077b5;
+}
+
+.main-header{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    font-size: x-large;
+    font-family: "open sans", sans-serif;
+}
+#futBtn{
+    font-family: Helvetica, sans-serif;
+    color: white;
+
+}
+#gotoTop{
+    margin-top: -70px;
+}
+#download{
+    margin-top: -70px;
+
+}
